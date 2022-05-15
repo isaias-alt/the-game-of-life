@@ -9,4 +9,5 @@ This is the game of life, developed by the mathematician **John Horton Conway**,
 ## DEPLOYMENT
 
 This game is developed in Python with the [Numpy](https://numpy.org/ "Numpy") and [Pygame](https://www.pygame.org/ "Pygame") libraries.
+
 You need to install these libraries with `pip install` in order to run the game.
